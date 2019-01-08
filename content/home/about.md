@@ -10,31 +10,30 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Judgement and Decision Making",
+    "Computational Modeling",
+    "Empirical Research Methods"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
+  course = "PhD in Psychology"
+  institution = "University of Bern, Switzerland"
+  year = 2015
+
+[[education.courses]]
+  course = "Msc in Psychology"
+  institution = "University of Bern, Switzerland"
   year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "Bsc in Psychology"
+  institution = "University of Hamburg, Germany"
+  year = 2012
  
 +++
 
-# Biography
+### About
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am a post-doctoral researcher at the University of Geneva in the Faculty of Economics and Management. I am a trained psychologist enjoying the multidisciplinarity at a Business School. My main research interest lies in understanding the fundamental cognitive processes of decision making, to understand and predict observable phenomena, such as seqeuntial effects in choices or the influence of visual cueing on information search.
+To make these cognitive processes better measurable and observable, I use process tracing methods, computational models and experimental research methods. 
