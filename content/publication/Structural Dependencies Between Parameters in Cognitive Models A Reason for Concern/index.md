@@ -52,7 +52,7 @@ tags = []
 
 # Links (optional).
 url_pdf = ""
-url_preprint = ""
+url_preprint = "https://psyarxiv.com/pxmnw/"
 url_code = ""
 url_dataset = ""
 url_project = ""
